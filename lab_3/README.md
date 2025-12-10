@@ -7,7 +7,7 @@
 #### Cтворив два нових файли [note.ipynb](note.ipynb) та [main.py](main.py).
 - Виконав приклади які розглядали на лекції та вставив їх у [пайтон ноутбук](note.ipynb)
 - у файлі main.py скопіював код із завдання і він вивів такий результат
-![](/lab_3/screenshots/first_return.png)
+![](/lab_3/first_return.png)
 1. Коли ми передаєм значення None створюється обєкт Anonymos тому що в `init` є даний рядок `self.name = name if name is not None else self.anonymous_user().name`
 2. Щоб змінити текст можна привітання можна 
    - просто у метод `say_hello` а саме в `message="Hello to everyone!"` просто змінити текст привітання
@@ -47,5 +47,5 @@
             file.write(self.full_name + "\n")
     ```
 ## Результат цих завдань 
-![](/lab_3/screenshots/final_return.png)
+![](/lab_3/final_return.png)
 ### Також код можна переглянути у файлі [main.py](main.py)
