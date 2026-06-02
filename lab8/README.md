@@ -1,4 +1,4 @@
-# Bystrov Maksym Portfolio
+# Roskyk Pihvalchak Portfolio
 
 ## About me
 
