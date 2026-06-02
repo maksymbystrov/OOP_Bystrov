@@ -1,4 +1,4 @@
-# Roskyk Pihvalchak Portfolio
+# Rostyslav Paholchak Portfolio
 
 ## About me
 
